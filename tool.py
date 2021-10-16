@@ -75,10 +75,10 @@ def request_delete(authorization):
 
 colorama.init()
 os.system('cls')
-os.system('title "Account killer | 2FA BYPASS SECURED, TAP IN!!! | New auto UUID filler! | Version 1.2"')
+os.system('title "Account killer')
 print(Fore.GREEN + '[~] Account killer tool by M3Talic#0015')
 print(Fore.RED + '[!] Warning ubisoft will log IP, make sure to use a VPN or Proxy')
-print(Fore.WHITE + '[1] Standard (2FA BYPASS)')
+print(Fore.WHITE + '[1] Standard')
 print(Fore.WHITE + '[2] Custom ticket')
 choice = int(input())
 os.system('cls')
